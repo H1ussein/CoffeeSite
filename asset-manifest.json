@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/CoffeeSite/static/css/main.93c6fdf6.css",
+    "main.js": "/CoffeeSite/static/js/main.5e0d824a.js",
+    "static/media/aboutus.jpg": "/CoffeeSite/static/media/aboutus.5dfa6902b151fb76379a.jpg",
+    "static/media/item-3.jpg": "/CoffeeSite/static/media/item-3.a67a9614ceb721aa62d4.jpg",
+    "static/media/item-6.jpg": "/CoffeeSite/static/media/item-6.35136729217c676b851a.jpg",
+    "static/media/customer.jpg": "/CoffeeSite/static/media/customer.0c3673efcae09bb8fc16.jpg",
+    "static/media/item-1.jpg": "/CoffeeSite/static/media/item-1.00ca7499c49d4ad2eb25.jpg",
+    "static/media/item-4.jpg": "/CoffeeSite/static/media/item-4.37ead70c7f539745c781.jpg",
+    "static/media/item-2.jpg": "/CoffeeSite/static/media/item-2.7709ef07ee8bb8d9cd2e.jpg",
+    "static/media/item-5.jpg": "/CoffeeSite/static/media/item-5.3eeb354a9c6ec25fd202.jpg",
+    "static/media/bg.jpg": "/CoffeeSite/static/media/bg.065dc52fb0a3ed6aea2d.jpg",
+    "static/media/logo-2.jpg": "/CoffeeSite/static/media/logo-2.8c6a753d353f1a19ac25.jpg",
+    "static/media/product_1.jpg": "/CoffeeSite/static/media/product_1.098d277f3e3add80e121.jpg",
+    "static/media/product_2.jpg": "/CoffeeSite/static/media/product_2.4b3048f209bab22733dc.jpg",
+    "static/media/contact.jpg": "/CoffeeSite/static/media/contact.8d53da4a60b14a2f10bd.jpg",
+    "index.html": "/CoffeeSite/index.html",
+    "main.93c6fdf6.css.map": "/CoffeeSite/static/css/main.93c6fdf6.css.map",
+    "main.5e0d824a.js.map": "/CoffeeSite/static/js/main.5e0d824a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93c6fdf6.css",
+    "static/js/main.5e0d824a.js"
+  ]
+}
